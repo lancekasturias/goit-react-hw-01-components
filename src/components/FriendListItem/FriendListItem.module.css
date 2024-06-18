@@ -18,11 +18,9 @@
 }
 
 .online {
-  composes: status;
   background-color: green;
 }
 
 .offline {
-  composes: status;
   background-color: red;
 }
